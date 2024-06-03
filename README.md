@@ -1,5 +1,4 @@
 # My_Portfolio
-This is my Portfolio repository.
 # Portfolio Website
 
 Welcome to my portfolio website repository. This project showcases my work as a software developer and includes information about my skills, projects, and contact details.
@@ -78,4 +77,6 @@ portfolio-website/
 │   ├── footer_banner.jpg
 │   └── ... (other images)
 └── README.md
+
+This `README.md` file provides a comprehensive overview of your project, including instructions for installation and usage, details about the technologies used, and contact information. It also includes a clear structure for contributors who might want to contribute to the project.
 
